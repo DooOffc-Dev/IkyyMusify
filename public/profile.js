@@ -36,7 +36,7 @@ var Profile = {
                     <span class="text-white/70 text-sm font-medium">Developed by</span>
                     <div class="flex items-center gap-2">
                         <img src="/dev.png" class="w-6 h-6 rounded-full object-cover border border-white/10" referrerPolicy="no-referrer" onerror="this.src='/logo.png'" />
-                        <span class="text-white font-bold text-sm">Nanzz</span>
+                        <span class="text-white font-bold text-sm">Skydoo</span>
                     </div>
                 </div>
 
